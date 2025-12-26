@@ -41,18 +41,6 @@ The Vertex Cover problem asks for the smallest set of vertices that cover all ed
 
 ---
 
-## Screenshots
-
-### GUI Interface
-![GUI Screenshot](screenshots/gui.png)
-
-### Sample Graph Visualization
-![Graph Screenshot](screenshots/graph.png)
-
-*(Add your screenshots to a `/screenshots` folder)*
-
----
-
 ## Installation
 ```bash
 # Clone the repository
