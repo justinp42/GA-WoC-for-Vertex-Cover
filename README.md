@@ -78,8 +78,7 @@ GA-WoC-for-Vertex-Cover/
 ├── main.py              # Main application with GUI
 ├── results.csv          # Experiment results output
 ├── README.md
-└── docs/
-    └── IEEE_Paper.pdf   # Research paper
+└── IEEE_Paper.pdf   # Research paper 
 ```
 
 ---
