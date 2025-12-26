@@ -78,7 +78,7 @@ GA-WoC-for-Vertex-Cover/
 ├── main.py              # Main application with GUI
 ├── results.csv          # Experiment results output
 ├── README.md
-└── IEEE_Paper.pdf   # Research paper 
+└── A Hybrid Genetic Algorithm with Wisdom-of-Crowds Aggregation for Approximating Minimum Vertex Covers.pdf   # Research paper 
 ```
 
 ---
